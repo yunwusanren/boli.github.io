@@ -1,2 +1,1 @@
-# SceneSketchGAN
 # boli.github.io
